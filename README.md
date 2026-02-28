@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AA7EEE&center=true&width=435&lines=Sobre+mim)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=AA7EEE&repeat=false&width=446&lines=Sobre+Mim)](https://git.io/typing-svg)
 
 Olá, Me chamo Well e atualmente estou tentando personalizar meu readme
 
