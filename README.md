@@ -18,7 +18,7 @@ Sou Estudante de Tecnologia, formado como técnico em Informática pelo Cetam, e
 
 
 
-
+<!--
 [![Status](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=6333AE&repeat=false&width=446&lines=Status)](https://git.io/typing-svg)
 
 <p>
@@ -39,7 +39,7 @@ Sou Estudante de Tecnologia, formado como técnico em Informática pelo Cetam, e
 
 </p>
 
-
+-->
 <br>
 <br>
 <br>
