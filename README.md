@@ -10,7 +10,9 @@ Olá, Me chamo Well e atualmente estou tentando personalizar meu readme
 
 
 
-[![Tecnologias](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=6333AE&repeat=false&width=446&lines=Status)](https://git.io/typing-svg)
+[![Status](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=6333AE&repeat=false&width=446&lines=Status)](https://git.io/typing-svg)
+
+[![Tecnologias](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=6333AE&repeat=false&width=446&lines=Tecnologias)](https://git.io/typing-svg)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=4440c0)
