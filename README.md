@@ -40,6 +40,8 @@ Sou Estudante de Tecnologia, formado como técnico em Informática pelo Cetam, e
 </p>
 
 
+<br>
+
 [![Linguagens e Tecnologias](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=AA7EEE&repeat=false&width=446&lines=Linguagens;Tecnologias)](https://git.io/typing-svg)
 
 <p align="center">
