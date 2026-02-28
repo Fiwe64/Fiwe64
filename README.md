@@ -1,5 +1,4 @@
-# Sobre Mim
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AA7EEE&center=true&width=435&lines=Sobre+mim)](https://git.io/typing-svg)
 
 Olá, Me chamo Well e atualmente estou tentando personalizar meu readme
 
