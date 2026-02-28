@@ -1,3 +1,1 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=Fiwe64&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiwe64&layout=compact&theme=tokyonight)
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpiNmo0eW9ybjk1aXQ3ajRwaWtldmM0ajJzZm5lamo5dXVreXlkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AO5qaphTxRnyw/giphy.gif
