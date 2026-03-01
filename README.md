@@ -24,8 +24,8 @@ Sou Estudante de Tecnologia, formado como técnico em Informática pelo Cetam, e
 
 [![Status](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=6333AE&repeat=false&width=446&lines=Status)](https://git.io/typing-svg)
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Fiwe64/github-stats-transparent/output/generated/languages.svg" alt="Linguagens" height="150" />
-  <img src="https://raw.githubusercontent.com/Fiwe64/github-stats-transparent/output/generated/overview.svg" alt="Estatísticas Gerais" height="150" />
+  <img src="https://raw.githubusercontent.com/Fiwe64/github-stats-transparent/output/generated/languages.svg" alt="Linguagens" height="300" />
+  <img src="https://raw.githubusercontent.com/Fiwe64/github-stats-transparent/output/generated/overview.svg" alt="Estatísticas Gerais" height="300" />
 </p>
 
 <br>
